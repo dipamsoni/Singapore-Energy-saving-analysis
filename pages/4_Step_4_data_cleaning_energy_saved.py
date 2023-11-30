@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 
 
 def clean_data_waste_energy_saved(energy_saved):

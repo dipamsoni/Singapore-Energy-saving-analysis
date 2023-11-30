@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 import plotly.graph_objects as go
 
 def visualize_recycle_rate(combined_data_waste):

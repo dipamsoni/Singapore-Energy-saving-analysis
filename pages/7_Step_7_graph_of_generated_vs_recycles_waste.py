@@ -1,10 +1,6 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
-import plotly.express as px
 import plotly.graph_objects as go
-from plotly.subplots import make_subplots
-import datetime
 
 
 def bar_graph(clean_waste_03_17, clean_waste_18_20):

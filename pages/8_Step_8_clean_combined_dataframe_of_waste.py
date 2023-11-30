@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 
 
 def clean_combined_data(combined_data_waste):

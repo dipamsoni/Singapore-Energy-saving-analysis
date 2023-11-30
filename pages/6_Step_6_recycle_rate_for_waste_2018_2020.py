@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 
 
 def recycle_rate(waste_2018_2020):
